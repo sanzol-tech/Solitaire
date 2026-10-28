@@ -4,9 +4,10 @@ Classic Klondike solitaire for Android: draw 1 / draw 3, tap or drag, undo, cloc
 automatic finish and sound. Plain Java, no third-party runtime dependencies, no
 permissions. UI in English and Spanish.
 
-| | |
+| Item | Value |
 |---|---|
-| Package / application ID | `ar.sanzol.solitaire` |
+| Package | `ar.sanzol.solitaire` |
+| Application ID | `ar.sanzoltech.solitaire` |
 | Toolchain | AGP 9.4.1, Gradle 9.8.0, Java 21 |
 | SDK | compile/target 37, min 31 |
 

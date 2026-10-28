@@ -23,6 +23,9 @@ android {
     namespace = 'ar.sanzol.solitaire'
     compileSdk = 37
 
+    // Java only: no Kotlin compile task and no implicit kotlin-stdlib (AGP 9 built-in Kotlin).
+    enableKotlin = false
+
     defaultConfig {
         applicationId = "ar.sanzoltech.solitaire"
         minSdk = 31
