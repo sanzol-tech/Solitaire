@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Solitario</string>
+
+    <string name="moves_format">Movimientos: %1$d</string>
+    <string name="time_format">Tiempo: %1$s</string>
+
+    <string name="action_new">Nuevo</string>
+    <string name="action_undo">Deshacer</string>
+    <string name="action_draw_format">Robar %1$d</string>
+    <string name="action_sound_on">Sonido</string>
+    <string name="action_sound_off">Silencio</string>
+
+    <string name="confirm_new_game">¿Empezar una partida nueva?</string>
+    <string name="confirm_draw_mode">Cambiar a robar %1$d empieza una partida nueva. ¿Continuar?</string>
+    <string name="dialog_yes">Sí</string>
+    <string name="dialog_no">No</string>
+
+    <string name="win_title">¡Ganaste! 🎉</string>
+    <plurals name="win_message">
+        <item quantity="one">Terminaste en %1$d movimiento y %2$s.</item>
+        <item quantity="many">Terminaste en %1$d movimientos y %2$s.</item>
+        <item quantity="other">Terminaste en %1$d movimientos y %2$s.</item>
+    </plurals>
+    <string name="win_new_game">Nueva partida</string>
+    <string name="win_close">Cerrar</string>
+</resources>
